@@ -146,6 +146,162 @@ http://10.56.89.6:6610/06000001/01000000000000000000000117368724/1000.m3u8?tenan
 #EXTINF:-1 tvg-name="四川卫视" group-title="4K",四川卫视4K
 http://10.56.89.9:6610/06000001/01000000000000000000000117368548/1000.m3u8?tenantId=8601&IASHttpSessionId=RR24310220251006135220556176&rrsip=10.56.47.80&icpid=&timeformat=local&channel=01000000000000000000000117368548&accountinfo=,10001000952481,113.25.193.233,20251006214918,35100001000000050000000000000215,10001000952481,-1,0,1,,,7,,,,4,10000001580564,2,10000001580564,24166D8C4067,,,1,,01000000000000000000000117368548,END&servicetype=1&GuardEncType=2&bandwidth=25600000&zte_bandwidth=1000&zoneoffset=480&ispcode=62&Playtype=1&AuthInfo=G8Kxbm5E8FOLRysLsH5yIZ0khUcWi6MMUPdGCjZ%2Foyr%2B%2F3wfmm4u7srXjLOucpvHSN9AfNpATeADaB0dteWbzP33qgtUHuwxfxKO2WWpSlI%3D&m3u8_level=2&ztecid=01000000000000000000000117368548
 
+#EXTGRP:4GTV
+#EXTINF:-1,民视新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=31
+#EXTINF:-1,TVBS新闻
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=291
+#EXTINF:-1,东森新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=292
+#EXTINF:-1,中视新闻
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=33
+#EXTINF:-1,华视新闻
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=34
+#EXTINF:-1,寰宇新闻台湾台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=280
+#EXTINF:-1,寰宇新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=36
+#EXTINF:-1,镜电视新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=268
+#EXTINF:-1,中天新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=30
+#EXTINF:-1,三立新闻iNEWS
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=229
+#EXTINF:-1,原住民族电视台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=273
+#EXTINF:-1,DW德国之声
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=226
+#EXTINF:-1,东森财经新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=293
+#EXTINF:-1,国会频道2
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=171
+#EXTINF:-1,国会频道1
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=170
+#EXTINF:-1,Bloomberg TV
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=283
+#EXTINF:-1,天才冲冲冲-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=343
+#EXTINF:-1,一字千金-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=344
+#EXTINF:-1,食尚玩家-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=348
+#EXTINF:-1,威廉沈欢乐送-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=435
+#EXTINF:-1,我的成长-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=390
+#EXTINF:-1,综艺大集合-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=345
+#EXTINF:-1,女人我最大-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=347
+#EXTINF:-1,八大综艺台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=114
+#EXTINF:-1,TVBS精彩台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=227
+#EXTINF:-1,爱尔达娱乐台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=19
+#EXTINF:-1,TVBS欢乐台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=184
+#EXTINF:-1,武媚娘传奇-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=455
+#EXTINF:-1,花千骨-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=397
+#EXTINF:-1,小资女孩向前冲-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=420
+#EXTINF:-1,新兵日记-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=382
+#EXTINF:-1,戏说台湾-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=342
+#EXTINF:-1,飞龙在天-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=417
+#EXTINF:-1,花系列戏剧-FastTV飞速看
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=329
+#EXTINF:-1,戏剧免费看 1台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=270
+#EXTINF:-1,经典电影台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=201
+#EXTINF:-1,amc电影台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=39
+#EXTINF:-1,CinemaWorld
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=225
+#EXTINF:-1,DreamWorks 梦工厂动画
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=282
+#EXTINF:-1,精选动漫台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=204
+#EXTINF:-1,Nick Jr. 儿童频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=219
+#EXTINF:-1,尼克儿童频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=185
+#EXTINF:-1,MOMO亲子台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=231
+#EXTINF:-1,靖天卡通台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=15
+#EXTINF:-1,靖洋卡通Nice Bingo
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=59
+#EXTINF:-1,民视旅游台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=61
+#EXTINF:-1,亚洲旅游台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=250
+#EXTINF:-1,幸福空间居家台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=168
+#EXTINF:-1,爱尔达生活旅游台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=237
+#EXTINF:-1,Love Nature
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=139
+#EXTINF:-1,Global Trekker
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=252
+#EXTINF:-1,电影原声台CMusic
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=218
+#EXTINF:-1,TRACE Urban
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=78
+#EXTINF:-1,MTV Live HD 音乐频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=213
+#EXTINF:-1,Mezzo Live HD
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=79
+#EXTINF:-1,CLASSICA 古典乐
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=80
+#EXTINF:-1,TRACE Sport Stars
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=57
+#EXTINF:-1,时尚运动X
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=69
+#EXTINF:-1,GINX Esports TV
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=179
+#EXTINF:-1,客家电视台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=107
+#EXTINF:-1,达文西频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=11
+#EXTINF:-1,LiveABC互动英语频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=188
+#EXTINF:-1,History 历史频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=214
+#EXTINF:-1,MagellanTV频道 (麦哲伦频道)
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=450
+#EXTINF:-1,CI 罪案侦查频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=215
+#EXTINF:-1,好消息
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=9
+#EXTINF:-1,好消息2台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=8
+#EXTINF:-1,大爱二台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=230
+#EXTINF:-1,人间卫视
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=210
+#EXTINF:-1,NHK WORLD-JAPAN
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=461
+#EXTINF:-1,FRANCE24 英文台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=316
+#EXTINF:-1,半岛国际新闻台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=462
+#EXTINF:-1,ARIRANG阿里郎频道
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=189
+#EXTINF:-1,东森购物一台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=173
+#EXTINF:-1,东森购物二台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=174
+#EXTINF:-1,东森购物三台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=287
+#EXTINF:-1,东森购物四台
+https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=286
+
 #EXTGRP:其他频道
 #EXTINF:-1 tvg-name="发现之旅" group-title="其他频道",发现之旅
 http://10.56.89.9:6610/06000001/01000000000000000000000000168570/1000.m3u8?tenantId=8601&IASHttpSessionId=RR24310720251006140613584587&rrsip=10.56.47.80&icpid=&timeformat=local&channel=01000000000000000000000000168570&accountinfo=,10001000952481,113.25.193.233,20251006214918,35100001000000050000000000000345,10001000952481,-1,0,1,,,7,,,,4,10000001580564,2,10000001580564,24166D8C4067,,,1,,01000000000000000000000000168570,END&servicetype=1&GuardEncType=2&bandwidth=4096000&zte_bandwidth=1000&zoneoffset=480&ispcode=62&Playtype=1&AuthInfo=G8Kxbm5E8FOLRysLsH5yIZ0khUcWi6MMUPdGCjZ%2Foyq6Y8UIBBcze0TxSwMqnCEYbbdVJfiR%2BZl5ONIunUsX5%2F33qgtUHuwxfxKO2WWpSlI%3D&m3u8_level=2&ztecid=01000000000000000000000000168570
@@ -179,141 +335,6 @@ http://10.56.89.5:6610/06000001/01000000000000000000000000168670/1000.m3u8?tenan
 http://10.56.89.6:6610/06000001/01000000000000000000000024947298/1000.m3u8?tenantId=8601&IASHttpSessionId=RR24310720251006140500584289&rrsip=10.56.47.80&icpid=&timeformat=local&channel=01000000000000000000000024947298&accountinfo=,10001000952481,113.25.193.233,20251006214918,00000001000000050000000000002256,10001000952481,-1,0,1,,,7,,,,4,10000001580564,2,10000001580564,24166D8C4067,,,1,,01000000000000000000000024947298,END&servicetype=1&GuardEncType=2&bandwidth=2490368&zte_bandwidth=1000&zoneoffset=480&ispcode=62&Playtype=1&AuthInfo=G8Kxbm5E8FOLRysLsH5yIZ0khUcWi6MMUPdGCjZ%2Foypt6999IUfvw6%2F4SshNjm4mUh7niSdnaVKCEzD%2BFllmzP33qgtUHuwxfxKO2WWpSlI%3D&m3u8_level=2&ztecid=01000000000000000000000024947298
 #EXTINF:-1 tvg-name="央视台球" group-title="其他频道",央视台球
 http://10.56.89.9:6610/06000001/01000000000000000000000000168628/1000.m3u8?tenantId=8601&IASHttpSessionId=RR24307620251006140513541439&rrsip=10.56.47.80&icpid=&timeformat=local&channel=01000000000000000000000000168628&accountinfo=,10001000952481,113.25.193.233,20251006214918,35100001000000050000000000000342,10001000952481,-1,0,1,,,7,,,,4,10000001580564,2,10000001580564,24166D8C4067,,,1,,01000000000000000000000000168628,END&servicetype=1&GuardEncType=2&bandwidth=8192000&zte_bandwidth=1000&zoneoffset=480&ispcode=62&Playtype=1&AuthInfo=G8Kxbm5E8FOLRysLsH5yIZ0khUcWi6MMUPdGCjZ%2Foyq6Y8UIBBcze0TxSwMqnCEYJVG8icnbVSLdZZkZaGCcyP33qgtUHuwxfxKO2WWpSlI%3D&m3u8_level=2&ztecid=01000000000000000000000000168628
-
-#EXTGRP:4GTV
-HahaTai 哈哈台-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=466
-天才衝衝衝-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=343
-一字千金-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=344
-食尚玩家-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=348
-威廉沈歡樂送-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=435
-我的成長-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=390
-綜藝大集合-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=345
-女人我最大-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=347
-姊妹亮起來-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=377
-民視新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=31
-TVBS新聞,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=291
-東森新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=292
-中視新聞,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=33
-華視新聞,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=34
-寰宇新聞台灣台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=280
-寰宇新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=36
-鏡電視新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=268
-中天新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=30
-三立新聞iNEWS,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=229
-原住民族電視台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=273
-DW德國之聲,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=226
-東森財經新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=293
-SBN全球財經台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=224
-CNBC Asia 財經台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=235
-國會頻道2,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=171
-國會頻道1,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=170
-中國傳奇故事-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=458
-武媚娘傳奇-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=455
-花千骨-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=397
-台灣傳奇-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=419
-不敗愛情偶像劇-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=401
-小資女孩向前衝-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=420
-新兵日記-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=382
-台灣靈異事件-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=326
-戲說台灣-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=342
-飛龍在天-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=417
-花系列戲劇-FastTV飛速看,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=329
-ROCK Entertainment,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=275
-東森購物一台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=173
-DreamWorks 夢工廠動畫,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=282
-東森購物二台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=174
-ROCK Action,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=180
-金光布袋戲,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=236
-東森購物三台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=287
-民視,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=3
-中視,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=4
-東森購物四台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=286
-華視,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=6
-大愛電視,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=209
-戲劇免費看 1台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=270
-精選動漫台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=204
-經典電影台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=201
-經典卡通台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=202
-Nick Jr. 兒童頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=219
-客家電視台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=107
-亞洲旅遊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=250
-滾動力rollor,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=249
-民視第一台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=1
-民視台灣台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=2
-民視綜藝台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=16
-民視影劇台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=24
-Love Nature,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=139
-采昌影劇台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=25
-靖天綜合台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=21
-靖天映畫,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=42
-公視戲劇,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=7
-靖天育樂台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=83
-尼克兒童頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=185
-影迷數位電影台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=40
-智林體育台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=58
-靖天日本台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=22
-靖天電影台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=82
-三立綜合台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=169
-History 歷史頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=214
-Lifetime 娛樂頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=217
-Global Trekker,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=252
-達文西頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=11
-靖天卡通台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=15
-靖洋卡通Nice Bingo,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=59
-ELTV生活英語台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=106
-LiveABC互動英語頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=188
-MOMO親子台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=231
-霹靂布袋戲,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=301
-TVBS台劇台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=285
-八大精彩台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=172
-靖天戲劇台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=116
-靖洋戲劇台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=118
-CinemaWorld,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=225
-amc電影台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=39
-視納華仁紀實頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=38
-HITS頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=186
-TV5MONDE STYLE HD 生活時尚,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=178
-LUXE TV Channel,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=175
-民視旅遊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=61
-幸福空間居家台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=168
-ARIRANG阿里郎頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=189
-愛爾達生活旅遊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=237
-亞洲旅遊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=261
-中視經典台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=124
-八大綜藝台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=114
-TVBS精采台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=227
-愛爾達娛樂台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=19
-Bloomberg TV,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=283
-TVBS,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=183
-KLT-靖天國際台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=84
-Nice TV 靖天歡樂台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=119
-靖天資訊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=88
-TVBS歡樂台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=184
-韓國娛樂台 KMTV,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=446
-電影原聲台CMusic,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=218
-TRACE Urban,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=78
-MTV Live HD 音樂頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=213
-Mezzo Live HD,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=79
-CLASSICA 古典樂,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=80
-INULTRA,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=444
-TRACE Sport Stars,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=57
-時尚運動X,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=69
-車迷TV,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=160
-GINX Esports TV,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=179
-MagellanTV頻道 (麥哲倫頻道) ,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=450
-CI 罪案偵查頻道,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=215
-影迷數位紀實台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=445
-My Cinema Europe HD 我的歐洲電影,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=463
-好消息,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=9
-好消息2台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=8
-大愛二台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=230
-人間衛視,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=210
-NHK WORLD-JAPAN,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=461
-FRANCE24 英文台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=316
-半島國際新聞台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=462
-鳳梨直擊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=93
-香蕉直擊台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=94
-TVBS綜藝台,https://4gtv.8.d.a.b.0.d.0.0.1.0.a.2.ip6.arpa/?id=284
 
 #EXTGRP:视觉效果
 #EXTINF:-1 group-title="视觉效果",3D-1视觉效果
@@ -840,4 +861,3 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 #EXTINF:-1 group-title="龙年电影",警察故事
 https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
-
