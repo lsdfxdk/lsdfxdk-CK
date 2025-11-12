@@ -147,6 +147,164 @@ http://10.56.89.6:6610/06000001/01000000000000000000000117368724/1000.m3u8?tenan
 http://10.56.89.9:6610/06000001/01000000000000000000000117368548/1000.m3u8?tenantId=8601&IASHttpSessionId=RR24310220251006135220556176&rrsip=10.56.47.80&icpid=&timeformat=local&channel=01000000000000000000000117368548&accountinfo=,10001000952481,113.25.193.233,20251006214918,35100001000000050000000000000215,10001000952481,-1,0,1,,,7,,,,4,10000001580564,2,10000001580564,24166D8C4067,,,1,,01000000000000000000000117368548,END&servicetype=1&GuardEncType=2&bandwidth=25600000&zte_bandwidth=1000&zoneoffset=480&ispcode=62&Playtype=1&AuthInfo=G8Kxbm5E8FOLRysLsH5yIZ0khUcWi6MMUPdGCjZ%2Foyr%2B%2F3wfmm4u7srXjLOucpvHSN9AfNpATeADaB0dteWbzP33qgtUHuwxfxKO2WWpSlI%3D&m3u8_level=2&ztecid=01000000000000000000000117368548
 
 #EXTGRP:4GTV
+#EXTINF:-1 tvg-id="CTiNews.tv" tvg-name="中天新闻台" tvg-logo="" group-title="4GTV",中天新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lit5aSp5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="SETNews.tv" tvg-name="三立新闻iNEWS" tvg-logo="" group-title="4GTV",三立新闻iNEWS
+https://4gtv.lsdfxdk.nyc.mn/?id=5LiJ56uL5paw6IGeaU5FV1Mx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TVBSNews.tv" tvg-name="TVBS新闻" tvg-logo="" group-title="4GTV",TVBS新闻
+https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaaWsOiBngxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="UniversalNews.tv" tvg-name="寰宇新闻台" tvg-logo="" group-title="4GTV",寰宇新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=5aaw5a6H5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="UniversalNewsTW.tv" tvg-name="寰宇新闻台湾台" tvg-logo="" group-title="4GTV",寰宇新闻台湾台
+https://4gtv.lsdfxdk.nyc.mn/?id=5aaw5a6H5paw6IGe5Yaw54Gj5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="EHNews.tv" tvg-name="东森新闻台" tvg-logo="" group-title="4GTV",东森新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTVNews.tv" tvg-name="民视新闻台" tvg-logo="" group-title="4GTV",民视新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CTINews.tv" tvg-name="中视新闻" tvg-logo="" group-title="4GTV",中视新闻
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW5paw6IGe&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CTSNews.tv" tvg-name="华视新闻" tvg-logo="" group-title="4GTV",华视新闻
+https://4gtv.lsdfxdk.nyc.mn/?id=6Iav6KaW5paw6IGe&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CTI.tv" tvg-name="中视" tvg-logo="" group-title="4GTV",中视
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CTIClassic.tv" tvg-name="中视经典台" tvg-logo="" group-title="4GTV",中视经典台
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW57aT5YW45Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CTIChoice.tv" tvg-name="中视菁采台" tvg-logo="" group-title="4GTV",中视菁采台
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW6IaB6YeH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TVBS.tv" tvg-name="TVBS" tvg-logo="" group-title="4GTV",TVBS
+https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUwxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TVBSJoy.tv" tvg-name="TVBS欢乐台" tvg-logo="" group-title="4GTV",TVBS欢乐台
+https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaatoeaoguWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TRACEUrban.tv" tvg-name="TRACE Urban" tvg-logo="" group-title="4GTV",TRACE Urban
+https://4gtv.lsdfxdk.nyc.mn/?id=VFJBQ0UgVXJiYW4x&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TRACESport.tv" tvg-name="TRACE Sport Stars" tvg-logo="" group-title="4GTV",TRACE Sport Stars
+https://4gtv.lsdfxdk.nyc.mn/?id=VFJBQ0UgU3BvcnQgU3RhcnMx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TVBSVariety.tv" tvg-name="TVBS综艺台" tvg-logo="" group-title="4GTV",TVBS综艺台
+https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUae2nOiXneWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TVBSDrama.tv" tvg-name="TVBS台剧台" tvg-logo="" group-title="4GTV",TVBS台剧台
+https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaWPsOWKhaWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="amc.tv" tvg-name="amc电影台" tvg-logo="" group-title="4GTV",amc电影台
+https://4gtv.lsdfxdk.nyc.mn/?id=YW1j6Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="funExplore.tv" tvg-name="fun探索娱乐台" tvg-logo="" group-title="4GTV",fun探索娱乐台
+https://4gtv.lsdfxdk.nyc.mn/?id=ZnVu5o6i57Si5aib5qiC5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="SETGeneral.tv" tvg-name="三立综合台" tvg-logo="" group-title="4GTV",三立综合台
+https://4gtv.lsdfxdk.nyc.mn/?id=5LiJ56uL57ac5ZCI5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="AsiaTravel.tv" tvg-name="亚洲旅游台" tvg-logo="" group-title="4GTV",亚洲旅游台
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lqe5rSy5peF6YGK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="BLTV.tv" tvg-name="人间卫视" tvg-logo="" group-title="4GTV",人间卫视
+https://4gtv.lsdfxdk.nyc.mn/?id=5Lq66ZaT6KGb6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVVariety.tv" tvg-name="八大综艺台" tvg-logo="" group-title="4GTV",八大综艺台
+https://4gtv.lsdfxdk.nyc.mn/?id=5YWr5aSn57ac6Jed5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVChoice.tv" tvg-name="八大精彩台" tvg-logo="" group-title="4GTV",八大精彩台
+https://4gtv.lsdfxdk.nyc.mn/?id=5YWr5aSn57Ka5b2p5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="PTSDrama.tv" tvg-name="公视戏剧" tvg-logo="" group-title="4GTV",公视戏剧
+https://4gtv.lsdfxdk.nyc.mn/?id=5YWs6KaW5oiy5YqH&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="AlJazeera.tv" tvg-name="半岛国际新闻台" tvg-logo="" group-title="4GTV",半岛国际新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=5Y2K5bO25ZyL6Zqb5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="TITV.tv" tvg-name="原住民族电视台" tvg-logo="" group-title="4GTV",原住民族电视台
+https://4gtv.lsdfxdk.nyc.mn/?id=5Y6f5L2P5rCR5peP6Zu76KaW5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="Congress1.tv" tvg-name="国会频道1" tvg-logo="" group-title="4GTV",国会频道1
+https://4gtv.lsdfxdk.nyc.mn/?id=5ZyL5pyD6aC76YGTMQxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="Congress2.tv" tvg-name="国会频道2" tvg-logo="" group-title="4GTV",国会频道2
+https://4gtv.lsdfxdk.nyc.mn/?id=5ZyL5pyD6aC76YGTMgxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="DaAi.tv" tvg-name="大爱电视" tvg-logo="" group-title="4GTV",大爱电视
+https://4gtv.lsdfxdk.nyc.mn/?id=5aSn5oSb6Zu76KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="DaAi2.tv" tvg-name="大爱二台" tvg-logo="" group-title="4GTV",大爱二台
+https://4gtv.lsdfxdk.nyc.mn/?id=5aSn5oSb5LqM5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GoodTV.tv" tvg-name="好消息" tvg-logo="" group-title="4GTV",好消息
+https://4gtv.lsdfxdk.nyc.mn/?id=5aW95raI5oGv&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GoodTV2.tv" tvg-name="好消息2台" tvg-logo="" group-title="4GTV",好消息2台
+https://4gtv.lsdfxdk.nyc.mn/?id=5aW95raI5oGvMuWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="HakkaTV.tv" tvg-name="客家电视台" tvg-logo="" group-title="4GTV",客家电视台
+https://4gtv.lsdfxdk.nyc.mn/?id=5a6i5a626Zu76KaW5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="NickKids.tv" tvg-name="尼克儿童频道" tvg-logo="" group-title="4GTV",尼克儿童频道
+https://4gtv.lsdfxdk.nyc.mn/?id=5bC85YWL5YWS56ul6aC76YGT&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="HappySpace.tv" tvg-name="幸福空间居家台" tvg-logo="" group-title="4GTV",幸福空间居家台
+https://4gtv.lsdfxdk.nyc.mn/?id=5bm456aP56m66ZaT5bGF5a625Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CineMaxDoc.tv" tvg-name="影迷数位纪实台" tvg-logo="" group-title="4GTV",影迷数位纪实台
+https://4gtv.lsdfxdk.nyc.mn/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CineMaxMovie.tv" tvg-name="影迷数位电影台" tvg-logo="" group-title="4GTV",影迷数位电影台
+https://4gtv.lsdfxdk.nyc.mn/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="ELTAEntertainment.tv" tvg-name="爱尔达娱乐台" tvg-logo="" group-title="4GTV",爱尔达娱乐台
+https://4gtv.lsdfxdk.nyc.mn/?id=5oSb54ia6YGU5aib5qiC5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="ELTATravel.tv" tvg-name="爱尔达生活旅游台" tvg-logo="" group-title="4GTV",爱尔达生活旅游台
+https://4gtv.lsdfxdk.nyc.mn/?id=5oSb54ia6YGU55Sf5rS75peF6YGK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FreeDrama1.tv" tvg-name="戏剧免费看 1台" tvg-logo="" group-title="4GTV",戏剧免费看 1台
+https://4gtv.lsdfxdk.nyc.mn/?id=5oiy5YqH5YWN6LK755yLIDHlj7Ax&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FashionSportX.tv" tvg-name="时尚运动X" tvg-logo="" group-title="4GTV",时尚运动X
+https://4gtv.lsdfxdk.nyc.mn/?id=5pmC5bCa6YGL5YuVWAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="ZhinlinSports.tv" tvg-name="智林体育台" tvg-logo="" group-title="4GTV",智林体育台
+https://4gtv.lsdfxdk.nyc.mn/?id=5pm65p6X6auU6IKy5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="EHShopping4.tv" tvg-name="东森购物四台" tvg-logo="" group-title="4GTV",东森购物四台
+https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5Zub5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="EHShopping1.tv" tvg-name="东森购物一台" tvg-logo="" group-title="4GTV",东森购物一台
+https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5LiA5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="EHFinanceNews.tv" tvg-name="东森财经新闻台" tvg-logo="" group-title="4GTV",东森财经新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LKh57aT5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="EHShopping2.tv" tvg-name="东森购物二台" tvg-logo="" group-title="4GTV",东森购物二台
+https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5LqM5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="EHShopping3.tv" tvg-name="东森购物三台" tvg-logo="" group-title="4GTV",东森购物三台
+https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5LiJ5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTVOne.tv" tvg-name="民视第一台" tvg-logo="" group-title="4GTV",民视第一台
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW56ys5LiA5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTVTaiwan.tv" tvg-name="民视台湾台" tvg-logo="" group-title="4GTV",民视台湾台
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5Yaw54Gj5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTV.tv" tvg-name="民视" tvg-logo="" group-title="4GTV",民视
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTVVariety.tv" tvg-name="民视综艺台" tvg-logo="" group-title="4GTV",民视综艺台
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW57ac6Jed5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTVTravel.tv" tvg-name="民视旅游台" tvg-logo="" group-title="4GTV",民视旅游台
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5peF6YGK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="FTVDrama.tv" tvg-name="民视影剧台" tvg-logo="" group-title="4GTV",民视影剧台
+https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5b2x5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="rollor.tv" tvg-name="滚动力rollor" tvg-logo="" group-title="4GTV",滚动力rollor
+https://4gtv.lsdfxdk.nyc.mn/?id=5rua5YuV5Yqbcm9sbG9y&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="AnimeSelect.tv" tvg-name="精选动漫台" tvg-logo="" group-title="4GTV",精选动漫台
+https://4gtv.lsdfxdk.nyc.mn/?id=57Ka6YG45YuV5ryr5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="ClassicMovie.tv" tvg-name="经典电影台" tvg-logo="" group-title="4GTV",经典电影台
+https://4gtv.lsdfxdk.nyc.mn/?id=57aT5YW46Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="ClassicCartoon.tv" tvg-name="经典卡通台" tvg-logo="" group-title="4GTV",经典卡通台
+https://4gtv.lsdfxdk.nyc.mn/?id=57aT5YW45Y2h6YCa5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CTS.tv" tvg-name="华视" tvg-logo="" group-title="4GTV",华视
+https://4gtv.lsdfxdk.nyc.mn/?id=6Iav6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CNEX.tv" tvg-name="视纳华仁纪实频道" tvg-logo="" group-title="4GTV",视纳华仁纪实频道
+https://4gtv.lsdfxdk.nyc.mn/?id=6KaW57SN6Iav5LuB57SA5aam6aC76YGT&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="ZhuGeLiang.tv" tvg-name="猪哥亮歌厅秀" tvg-logo="" group-title="4GTV",猪哥亮歌厅秀
+https://4gtv.lsdfxdk.nyc.mn/?id=6LGs5ZOl5Lqu5q2M5buz56eA&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CarFans.tv" tvg-name="车迷TV" tvg-logo="" group-title="4GTV",车迷TV
+https://4gtv.lsdfxdk.nyc.mn/?id=6LuK6La3VFYx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="AACtv.tv" tvg-name="采昌影剧台" tvg-logo="" group-title="4GTV",采昌影剧台
+https://4gtv.lsdfxdk.nyc.mn/?id=6YeH5piM5b2x5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="JinGuangPuppet.tv" tvg-name="金光布袋戏" tvg-logo="" group-title="4GTV",金光布袋戏
+https://4gtv.lsdfxdk.nyc.mn/?id=6YeR5YWJ5biD6KKL5oiy&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="MirrorNews.tv" tvg-name="镜电视新闻台" tvg-logo="" group-title="4GTV",镜电视新闻台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="CMusic.tv" tvg-name="电影原声台CMusic" tvg-logo="" group-title="4GTV",电影原声台CMusic
+https://4gtv.lsdfxdk.nyc.mn/?id=6Zu75b2x5Y6f6IGy5YawQ011c2lj&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="PiliPuppet.tv" tvg-name="霹雳布袋戏" tvg-logo="" group-title="4GTV",霹雳布袋戏
+https://4gtv.lsdfxdk.nyc.mn/?id=6Zy56Z2C5biD6KKL5oiy&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVGeneral.tv" tvg-name="靖天综合台" tvg-logo="" group-title="4GTV",靖天综合台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVJapan.tv" tvg-name="靖天日本台" tvg-logo="" group-title="4GTV",靖天日本台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5pel5pys5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVCartoon.tv" tvg-name="靖天卡通台" tvg-logo="" group-title="4GTV",靖天卡通台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVNiceBingo.tv" tvg-name="靖洋卡通Nice Bingo" tvg-logo="" group-title="4GTV",靖洋卡通Nice Bingo
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5rSL5Y2h6YCaTmljZSBCaW5nbwxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVEntertainment.tv" tvg-name="靖天育乐台" tvg-logo="" group-title="4GTV",靖天育乐台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp6IKy5qiC5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVInfo.tv" tvg-name="靖天资讯台" tvg-logo="" group-title="4GTV",靖天资讯台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVDrama.tv" tvg-name="靖天戏剧台" tvg-logo="" group-title="4GTV",靖天戏剧台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVYangDrama.tv" tvg-name="靖洋戏剧台" tvg-logo="" group-title="4GTV",靖洋戏剧台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVMovie.tw" tvg-name="靖天映画" tvg-logo="" group-title="4GTV",靖天映画
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5pig55Wr&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="GTVMovie.tv" tvg-name="靖天电影台" tvg-logo="" group-title="4GTV",靖天电影台
+https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp6Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
+#EXTINF:-1 tvg-id="KMTV.tv" tvg-name="韩国娱乐台 KMTV" tvg-logo="" group-title="4GTV",韩国娱乐台 KMTV
+https://4gtv.lsdfxdk.nyc.mn/?id=6ZaT5ZyL5aib5qiC5YawIEtNVFYx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
 #EXTINF:-1 tvg-id="Arirang.tv" tvg-name="ARIRANG阿里郎频道" tvg-logo="" group-title="4GTV",ARIRANG阿里郎频道
 https://4gtv.lsdfxdk.nyc.mn/?id=QVJJUkFORamYvamHjOmDjumguamBkwxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
 #EXTINF:-1 tvg-id="Bloomberg.tv" tvg-name="Bloomberg TV" tvg-logo="" group-title="4GTV",Bloomberg TV
@@ -213,164 +371,6 @@ https://4gtv.lsdfxdk.nyc.mn/?id=Uk9DSyBBY3Rpb24x&auth=ff1e5fd673e6bc2a912b1e2149
 https://4gtv.lsdfxdk.nyc.mn/?id=U0JO5YWo55CD6LKh57aT5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
 #EXTINF:-1 tvg-id="TVBSChoice.tv" tvg-name="TVBS精采台" tvg-logo="" group-title="4GTV",TVBS精采台
 https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaeyvumHhaWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TVBSNews.tv" tvg-name="TVBS新闻" tvg-logo="" group-title="4GTV",TVBS新闻
-https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaaWsOiBngxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TVBS.tv" tvg-name="TVBS" tvg-logo="" group-title="4GTV",TVBS
-https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUwxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TVBSJoy.tv" tvg-name="TVBS欢乐台" tvg-logo="" group-title="4GTV",TVBS欢乐台
-https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaatoeaoguWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TRACEUrban.tv" tvg-name="TRACE Urban" tvg-logo="" group-title="4GTV",TRACE Urban
-https://4gtv.lsdfxdk.nyc.mn/?id=VFJBQ0UgVXJiYW4x&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TRACESport.tv" tvg-name="TRACE Sport Stars" tvg-logo="" group-title="4GTV",TRACE Sport Stars
-https://4gtv.lsdfxdk.nyc.mn/?id=VFJBQ0UgU3BvcnQgU3RhcnMx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TVBSVariety.tv" tvg-name="TVBS综艺台" tvg-logo="" group-title="4GTV",TVBS综艺台
-https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUae2nOiXneWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TVBSDrama.tv" tvg-name="TVBS台剧台" tvg-logo="" group-title="4GTV",TVBS台剧台
-https://4gtv.lsdfxdk.nyc.mn/?id=VFZCUaWPsOWKhaWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="amc.tv" tvg-name="amc电影台" tvg-logo="" group-title="4GTV",amc电影台
-https://4gtv.lsdfxdk.nyc.mn/?id=YW1j6Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="funExplore.tv" tvg-name="fun探索娱乐台" tvg-logo="" group-title="4GTV",fun探索娱乐台
-https://4gtv.lsdfxdk.nyc.mn/?id=ZnVu5o6i57Si5aib5qiC5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="SETGeneral.tv" tvg-name="三立综合台" tvg-logo="" group-title="4GTV",三立综合台
-https://4gtv.lsdfxdk.nyc.mn/?id=5LiJ56uL57ac5ZCI5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="SETNews.tv" tvg-name="三立新闻iNEWS" tvg-logo="" group-title="4GTV",三立新闻iNEWS
-https://4gtv.lsdfxdk.nyc.mn/?id=5LiJ56uL5paw6IGeaU5FV1Mx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTI.tv" tvg-name="中视" tvg-logo="" group-title="4GTV",中视
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTIClassic.tv" tvg-name="中视经典台" tvg-logo="" group-title="4GTV",中视经典台
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW57aT5YW45Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTIChoice.tv" tvg-name="中视菁采台" tvg-logo="" group-title="4GTV",中视菁采台
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW6IaB6YeH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTINews.tv" tvg-name="中视新闻" tvg-logo="" group-title="4GTV",中视新闻
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lit6KaW5paw6IGe&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTiNews.tv" tvg-name="中天新闻台" tvg-logo="" group-title="4GTV",中天新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lit5aSp5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="AsiaTravel.tv" tvg-name="亚洲旅游台" tvg-logo="" group-title="4GTV",亚洲旅游台
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lqe5rSy5peF6YGK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="BLTV.tv" tvg-name="人间卫视" tvg-logo="" group-title="4GTV",人间卫视
-https://4gtv.lsdfxdk.nyc.mn/?id=5Lq66ZaT6KGb6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVVariety.tv" tvg-name="八大综艺台" tvg-logo="" group-title="4GTV",八大综艺台
-https://4gtv.lsdfxdk.nyc.mn/?id=5YWr5aSn57ac6Jed5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVChoice.tv" tvg-name="八大精彩台" tvg-logo="" group-title="4GTV",八大精彩台
-https://4gtv.lsdfxdk.nyc.mn/?id=5YWr5aSn57Ka5b2p5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="PTSDrama.tv" tvg-name="公视戏剧" tvg-logo="" group-title="4GTV",公视戏剧
-https://4gtv.lsdfxdk.nyc.mn/?id=5YWs6KaW5oiy5YqH&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="AlJazeera.tv" tvg-name="半岛国际新闻台" tvg-logo="" group-title="4GTV",半岛国际新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=5Y2K5bO25ZyL6Zqb5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="TITV.tv" tvg-name="原住民族电视台" tvg-logo="" group-title="4GTV",原住民族电视台
-https://4gtv.lsdfxdk.nyc.mn/?id=5Y6f5L2P5rCR5peP6Zu76KaW5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="Congress1.tv" tvg-name="国会频道1" tvg-logo="" group-title="4GTV",国会频道1
-https://4gtv.lsdfxdk.nyc.mn/?id=5ZyL5pyD6aC76YGTMQxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="Congress2.tv" tvg-name="国会频道2" tvg-logo="" group-title="4GTV",国会频道2
-https://4gtv.lsdfxdk.nyc.mn/?id=5ZyL5pyD6aC76YGTMgxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="DaAi.tv" tvg-name="大爱电视" tvg-logo="" group-title="4GTV",大爱电视
-https://4gtv.lsdfxdk.nyc.mn/?id=5aSn5oSb6Zu76KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="DaAi2.tv" tvg-name="大爱二台" tvg-logo="" group-title="4GTV",大爱二台
-https://4gtv.lsdfxdk.nyc.mn/?id=5aSn5oSb5LqM5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GoodTV.tv" tvg-name="好消息" tvg-logo="" group-title="4GTV",好消息
-https://4gtv.lsdfxdk.nyc.mn/?id=5aW95raI5oGv&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GoodTV2.tv" tvg-name="好消息2台" tvg-logo="" group-title="4GTV",好消息2台
-https://4gtv.lsdfxdk.nyc.mn/?id=5aW95raI5oGvMuWPsAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="HakkaTV.tv" tvg-name="客家电视台" tvg-logo="" group-title="4GTV",客家电视台
-https://4gtv.lsdfxdk.nyc.mn/?id=5a6i5a626Zu76KaW5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="UniversalNews.tv" tvg-name="寰宇新闻台" tvg-logo="" group-title="4GTV",寰宇新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=5aaw5a6H5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="UniversalNewsTW.tv" tvg-name="寰宇新闻台湾台" tvg-logo="" group-title="4GTV",寰宇新闻台湾台
-https://4gtv.lsdfxdk.nyc.mn/?id=5aaw5a6H5paw6IGe5Yaw54Gj5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="NickKids.tv" tvg-name="尼克儿童频道" tvg-logo="" group-title="4GTV",尼克儿童频道
-https://4gtv.lsdfxdk.nyc.mn/?id=5bC85YWL5YWS56ul6aC76YGT&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="HappySpace.tv" tvg-name="幸福空间居家台" tvg-logo="" group-title="4GTV",幸福空间居家台
-https://4gtv.lsdfxdk.nyc.mn/?id=5bm456aP56m66ZaT5bGF5a625Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CineMaxDoc.tv" tvg-name="影迷数位纪实台" tvg-logo="" group-title="4GTV",影迷数位纪实台
-https://4gtv.lsdfxdk.nyc.mn/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CineMaxMovie.tv" tvg-name="影迷数位电影台" tvg-logo="" group-title="4GTV",影迷数位电影台
-https://4gtv.lsdfxdk.nyc.mn/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="ELTAEntertainment.tv" tvg-name="爱尔达娱乐台" tvg-logo="" group-title="4GTV",爱尔达娱乐台
-https://4gtv.lsdfxdk.nyc.mn/?id=5oSb54ia6YGU5aib5qiC5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="ELTATravel.tv" tvg-name="爱尔达生活旅游台" tvg-logo="" group-title="4GTV",爱尔达生活旅游台
-https://4gtv.lsdfxdk.nyc.mn/?id=5oSb54ia6YGU55Sf5rS75peF6YGK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FreeDrama1.tv" tvg-name="戏剧免费看 1台" tvg-logo="" group-title="4GTV",戏剧免费看 1台
-https://4gtv.lsdfxdk.nyc.mn/?id=5oiy5YqH5YWN6LK755yLIDHlj7Ax&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FashionSportX.tv" tvg-name="时尚运动X" tvg-logo="" group-title="4GTV",时尚运动X
-https://4gtv.lsdfxdk.nyc.mn/?id=5pmC5bCa6YGL5YuVWAxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="ZhinlinSports.tv" tvg-name="智林体育台" tvg-logo="" group-title="4GTV",智林体育台
-https://4gtv.lsdfxdk.nyc.mn/?id=5pm65p6X6auU6IKy5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="EHShopping4.tv" tvg-name="东森购物四台" tvg-logo="" group-title="4GTV",东森购物四台
-https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5Zub5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="EHShopping1.tv" tvg-name="东森购物一台" tvg-logo="" group-title="4GTV",东森购物一台
-https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5LiA5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="EHNews.tv" tvg-name="东森新闻台" tvg-logo="" group-title="4GTV",东森新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="EHFinanceNews.tv" tvg-name="东森财经新闻台" tvg-logo="" group-title="4GTV",东森财经新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LKh57aT5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="EHShopping2.tv" tvg-name="东森购物二台" tvg-logo="" group-title="4GTV",东森购物二台
-https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5LqM5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="EHShopping3.tv" tvg-name="东森购物三台" tvg-logo="" group-title="4GTV",东森购物三台
-https://4gtv.lsdfxdk.nyc.mn/?id=5p2x5qOu6LO854mp5LiJ5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTVOne.tv" tvg-name="民视第一台" tvg-logo="" group-title="4GTV",民视第一台
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW56ys5LiA5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTVTaiwan.tv" tvg-name="民视台湾台" tvg-logo="" group-title="4GTV",民视台湾台
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5Yaw54Gj5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTV.tv" tvg-name="民视" tvg-logo="" group-title="4GTV",民视
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTVNews.tv" tvg-name="民视新闻台" tvg-logo="" group-title="4GTV",民视新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTVVariety.tv" tvg-name="民视综艺台" tvg-logo="" group-title="4GTV",民视综艺台
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW57ac6Jed5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTVTravel.tv" tvg-name="民视旅游台" tvg-logo="" group-title="4GTV",民视旅游台
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5peF6YGK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="FTVDrama.tv" tvg-name="民视影剧台" tvg-logo="" group-title="4GTV",民视影剧台
-https://4gtv.lsdfxdk.nyc.mn/?id=5rCR6KaW5b2x5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="rollor.tv" tvg-name="滚动力rollor" tvg-logo="" group-title="4GTV",滚动力rollor
-https://4gtv.lsdfxdk.nyc.mn/?id=5rua5YuV5Yqbcm9sbG9y&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="AnimeSelect.tv" tvg-name="精选动漫台" tvg-logo="" group-title="4GTV",精选动漫台
-https://4gtv.lsdfxdk.nyc.mn/?id=57Ka6YG45YuV5ryr5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="ClassicMovie.tv" tvg-name="经典电影台" tvg-logo="" group-title="4GTV",经典电影台
-https://4gtv.lsdfxdk.nyc.mn/?id=57aT5YW46Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="ClassicCartoon.tv" tvg-name="经典卡通台" tvg-logo="" group-title="4GTV",经典卡通台
-https://4gtv.lsdfxdk.nyc.mn/?id=57aT5YW45Y2h6YCa5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTS.tv" tvg-name="华视" tvg-logo="" group-title="4GTV",华视
-https://4gtv.lsdfxdk.nyc.mn/?id=6Iav6KaW&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CTSNews.tv" tvg-name="华视新闻" tvg-logo="" group-title="4GTV",华视新闻
-https://4gtv.lsdfxdk.nyc.mn/?id=6Iav6KaW5paw6IGe&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CNEX.tv" tvg-name="视纳华仁纪实频道" tvg-logo="" group-title="4GTV",视纳华仁纪实频道
-https://4gtv.lsdfxdk.nyc.mn/?id=6KaW57SN6Iav5LuB57SA5aam6aC76YGT&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="ZhuGeLiang.tv" tvg-name="猪哥亮歌厅秀" tvg-logo="" group-title="4GTV",猪哥亮歌厅秀
-https://4gtv.lsdfxdk.nyc.mn/?id=6LGs5ZOl5Lqu5q2M5buz56eA&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CarFans.tv" tvg-name="车迷TV" tvg-logo="" group-title="4GTV",车迷TV
-https://4gtv.lsdfxdk.nyc.mn/?id=6LuK6La3VFYx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="AACtv.tv" tvg-name="采昌影剧台" tvg-logo="" group-title="4GTV",采昌影剧台
-https://4gtv.lsdfxdk.nyc.mn/?id=6YeH5piM5b2x5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="JinGuangPuppet.tv" tvg-name="金光布袋戏" tvg-logo="" group-title="4GTV",金光布袋戏
-https://4gtv.lsdfxdk.nyc.mn/?id=6YeR5YWJ5biD6KKL5oiy&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="MirrorNews.tv" tvg-name="镜电视新闻台" tvg-logo="" group-title="4GTV",镜电视新闻台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="CMusic.tv" tvg-name="电影原声台CMusic" tvg-logo="" group-title="4GTV",电影原声台CMusic
-https://4gtv.lsdfxdk.nyc.mn/?id=6Zu75b2x5Y6f6IGy5YawQ011c2lj&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="PiliPuppet.tv" tvg-name="霹雳布袋戏" tvg-logo="" group-title="4GTV",霹雳布袋戏
-https://4gtv.lsdfxdk.nyc.mn/?id=6Zy56Z2C5biD6KKL5oiy&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVGeneral.tv" tvg-name="靖天综合台" tvg-logo="" group-title="4GTV",靖天综合台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVJapan.tv" tvg-name="靖天日本台" tvg-logo="" group-title="4GTV",靖天日本台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5pel5pys5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVCartoon.tv" tvg-name="靖天卡通台" tvg-logo="" group-title="4GTV",靖天卡通台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVNiceBingo.tv" tvg-name="靖洋卡通Nice Bingo" tvg-logo="" group-title="4GTV",靖洋卡通Nice Bingo
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5rSL5Y2h6YCaTmljZSBCaW5nbwxx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVEntertainment.tv" tvg-name="靖天育乐台" tvg-logo="" group-title="4GTV",靖天育乐台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp6IKy5qiC5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVInfo.tv" tvg-name="靖天资讯台" tvg-logo="" group-title="4GTV",靖天资讯台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVDrama.tv" tvg-name="靖天戏剧台" tvg-logo="" group-title="4GTV",靖天戏剧台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVYangDrama.tv" tvg-name="靖洋戏剧台" tvg-logo="" group-title="4GTV",靖洋戏剧台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVMovie.tw" tvg-name="靖天映画" tvg-logo="" group-title="4GTV",靖天映画
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp5pig55Wr&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="GTVMovie.tv" tvg-name="靖天电影台" tvg-logo="" group-title="4GTV",靖天电影台
-https://4gtv.lsdfxdk.nyc.mn/?id=6Z2W5aSp6Zu75b2x5Yaw&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
-#EXTINF:-1 tvg-id="KMTV.tv" tvg-name="韩国娱乐台 KMTV" tvg-logo="" group-title="4GTV",韩国娱乐台 KMTV
-https://4gtv.lsdfxdk.nyc.mn/?id=6ZaT5ZyL5aib5qiC5YawIEtNVFYx&auth=ff1e5fd673e6bc2a912b1e21498bd89c049d034b21797d1cd35d9ccc8f7f724e13c57e104fa81838baed42be9f278563
 
 #EXTGRP:其他频道
 #EXTINF:-1 tvg-name="发现之旅" group-title="其他频道",发现之旅
