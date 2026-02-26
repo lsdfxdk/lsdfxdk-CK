@@ -1,7 +1,27 @@
 {
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "",
-  "lives": [],
+  "spider": "./jar/top98_1.jar",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    }
+  ],
+  "rules": [
+    {
+      "host": "*",
+      "rule": [
+        "default.365yg.com"
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
+        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+      ]
+    }
+  ],
   "sites": [
     {
       "key": "feifan",
@@ -481,6 +501,46 @@
       "filterable": 1
     }
   ],
-  "parses": [],
-  "flags": []
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "freejson",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    },
+    {
+      "name": "parwix稳定",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "renrenmi"
+  ],
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
