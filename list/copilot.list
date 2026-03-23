@@ -1,6 +1,7 @@
-# Copilot优先代理。（其他需要代理的域名也可以添加）
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,api.copilot.microsoft.com
-DOMAIN-SUFFIX,assets.msn.com
-DOMAIN-SUFFIX,api.msn.com
+#手动维护，需要特殊走代理的域名添加到这里。
+DOMAIN-SUFFIX,copilot.microsoft.com  # 主入口
+DOMAIN-SUFFIX,sydney.bing.com  # 核心对话接口
+DOMAIN-SUFFIX,edgeservices.bing.com  # 侧边栏/插件服务
+DOMAIN-SUFFIX,rt.bing.com  # 实时流式响应
+DOMAIN-SUFFIX,copilot.cloud.microsoft  # 企业/云端备用入口，兜底
 DOMAIN-SUFFIX,qf1.us
