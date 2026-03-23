@@ -2,13 +2,15 @@
 #copilot系列
 # Copilot 核心接口
 DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
-# 授权验证（不代理这个容易被拉黑）
+# 身份验证与登录（必须走代理，否则会报错或被拉黑）
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,microsoftonline.com
-# --- 图片生成 (DALL-E 3) ---
+DOMAIN-SUFFIX,live.com
+# 视觉搜索与 DALL-E 3 图片生成支持
 DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN,th.bing.com
 # --- 你的其他自定义域名 ---
 DOMAIN-SUFFIX,qf1.us
