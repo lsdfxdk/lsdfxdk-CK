@@ -1,9 +1,17 @@
 #手动维护，需要特殊走代理的域名添加在此处。此规则前置，优先匹配走代理。
 #copilot系列
+# --- Copilot 核心聊天接口 (必须代理) ---
 DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,rt.bing.com
-DOMAIN-SUFFIX,copilot.cloud.microsoft
-#其他域名
+DOMAIN-SUFFIX,sydney.bing.com           # Copilot 的核心后端
+DOMAIN-SUFFIX,edgeservices.bing.com     # 侧边栏/增强服务
+DOMAIN-SUFFIX,copilot.cloud.microsoft   # 新版 365 Copilot 域名
+DOMAIN-SUFFIX,bing.com/chat             # 匹配聊天路径
+# --- 微软授权验证 (解决 Blocked 关键) ---
+# 注意：如果不代理这些，Copilot 无法确认你的身份，常报错
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,live.com
+# --- 图片生成 (DALL-E 3) ---
+DOMAIN-SUFFIX,bingvisualsearch.com
+# --- 你的其他自定义域名 ---
 DOMAIN-SUFFIX,qf1.us
