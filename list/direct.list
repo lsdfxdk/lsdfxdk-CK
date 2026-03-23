@@ -1,8 +1,9 @@
-DOMAIN-SUFFIX,lsdfxd.dpdns.org
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,cloudflare.com  #CF
+DOMAIN-KEYWORD,cloudflare  #CF
+#自用域名
 DOMAIN-KEYWORD,456973.xyz
 DOMAIN-KEYWORD,lsdfxdk.nyc.mn
+DOMAIN-SUFFIX,lsdfxd.dpdns.org
 DOMAIN-KEYWORD,wjfxd.cc.cd
 DOMAIN-KEYWORD,wjfxd.dpdns.org
 DOMAIN-KEYWORD,wjfxd.eu.cc
