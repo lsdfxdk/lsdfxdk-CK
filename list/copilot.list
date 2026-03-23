@@ -1,8 +1,6 @@
-# Copilot 专用域名（仅这些走代理）
+# Copilot优先代理。（其他需要代理的域名也可以添加）
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,api.copilot.microsoft.com
 DOMAIN-SUFFIX,assets.msn.com
-DOMAIN-SUFFIX,c.bing.com
-DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,api.msn.com
 DOMAIN-SUFFIX,qf1.us
