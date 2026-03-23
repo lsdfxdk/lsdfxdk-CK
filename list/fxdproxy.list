@@ -1,9 +1,9 @@
 #手动维护，需要特殊走代理的域名添加在此处。此规则前置，优先匹配走代理。
-#copilot系列：
-DOMAIN-SUFFIX,copilot.microsoft.com  # 主入口
-DOMAIN-SUFFIX,sydney.bing.com  # 核心对话接口
-DOMAIN-SUFFIX,edgeservices.bing.com  # 侧边栏/插件服务
-DOMAIN-SUFFIX,rt.bing.com  # 实时流式响应
-DOMAIN-SUFFIX,copilot.cloud.microsoft  # 企业/云端备用入口，兜底
+#copilot系列
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,rt.bing.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 #其他域名
-DOMAIN-SUFFIX,qf1.us  #起帆机场
+DOMAIN-SUFFIX,qf1.us
