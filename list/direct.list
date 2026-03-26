@@ -1,5 +1,10 @@
-DOMAIN-SUFFIX,cloudflare.com  #CF
-DOMAIN-KEYWORD,cloudflare  #CF
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,cloudflare
+#同花顺
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,thsi.cn
+DOMAIN-SUFFIX,hexin.cn
+DOMAIN-SUFFIX,51push.com.cn
 #自用域名
 DOMAIN-KEYWORD,456973.xyz
 DOMAIN-KEYWORD,lsdfxdk.nyc.mn
