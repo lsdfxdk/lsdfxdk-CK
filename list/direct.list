@@ -1,10 +1,28 @@
+#CF直连
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,cloudflare
-#同花顺
+# 同花顺 核心域名
 DOMAIN-SUFFIX,10jqka.com.cn
-DOMAIN-SUFFIX,thsi.cn
-DOMAIN-SUFFIX,hexin.cn
-DOMAIN-SUFFIX,51push.com.cn
+DOMAIN-SUFFIX,51ifind.com
+DOMAIN-SUFFIX,tdx.com.cn
+DOMAIN-SUFFIX,thsapp.com
+DOMAIN-SUFFIX,app.thsimg.com
+DOMAIN-SUFFIX,thsfile.com
+# 同花顺 Android 进程（最稳）
+PROCESS-NAME,com.hexin.plat.android
+PROCESS-NAME,com.hexin.plat.android.hs
+# 同花顺 常用行情主站IP
+IP-CIDR,210.51.244.173/32
+IP-CIDR,121.52.252.15/32
+IP-CIDR,61.136.165.240/32
+IP-CIDR,119.96.183.56/32
+IP-CIDR,58.220.49.150/32
+IP-CIDR,113.207.104.0/24
+IP-CIDR,221.181.102.0/24
+IP-CIDR,120.55.92.0/24
+IP-CIDR,101.231.161.0/24
+IP-CIDR,112.95.192.0/24
+IP-CIDR,114.80.175.0/24
 #自用域名
 DOMAIN-KEYWORD,456973.xyz
 DOMAIN-KEYWORD,lsdfxdk.nyc.mn
