@@ -28,6 +28,8 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # 起帆机场
 DOMAIN-SUFFIX,qf1.us
 # ------copilot系列------
+# 域名关键字
+DOMAIN-KEYWORD,copilot
 # Copilot 核心接口
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
