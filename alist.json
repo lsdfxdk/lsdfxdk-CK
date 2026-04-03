@@ -1,12 +1,9 @@
-proxies:
-  - name: "我的AList-远程"
-    type: http
-    server: alist.456973.xyz
-    port: 443
-    username: lsdfxdk
-    password: fxd731128
-    tls: true
-    skip-cert-verify: false
-    alist:
-      path: "/"
-      mode: webdav
+{
+  "name": "冬哥的AList",
+  "type": "webdav",
+  "server": "alist.456973.xyz",
+  "https": true,
+  "username": "guest",
+  "password": "fxd731128",
+  "path": "/"
+}
