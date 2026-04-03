@@ -1,0 +1,12 @@
+proxies:
+  - name: "我的AList-远程"
+    type: http
+    server: alist.456973.xyz
+    port: 443
+    username: guest
+    password: fxd731128
+    tls: true
+    skip-cert-verify: false
+    alist:
+      path: "/"
+      mode: webdav
