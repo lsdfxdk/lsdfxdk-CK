@@ -1,0 +1,12 @@
+{
+  "proxies": [],
+  "proxy-groups": [],
+  "rules": [],
+  "webdav": {
+    "enable": true,
+    "url": "https://dav.jianguoyun.com/dav/",
+    "username": "lsdfxdk@163.com",
+    "password": "a5zcpezc3fijgi3p",
+    "path": "/wangerxiao.json"
+  }
+}
